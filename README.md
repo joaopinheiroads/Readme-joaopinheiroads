@@ -9,7 +9,7 @@
     <a href="mailto:SEUGMAIL">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
     </a>
-    <a href="https://joaopinheiroads.github.io/PortfolioPessoalWeb/">
+    <a href="https://vite-react-zeta-ashen.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=generic&logoColor=white" alt="Portfolio"/>
     </a>
 </p>
